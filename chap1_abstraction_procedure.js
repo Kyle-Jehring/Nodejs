@@ -200,6 +200,3 @@ function cbrt(x){
     }
     return cbrt_iter(1);
 }
-
-
-
